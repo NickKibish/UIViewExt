@@ -1,0 +1,14 @@
+PODS:
+  - UIViewExt (0.1.0)
+
+DEPENDENCIES:
+  - UIViewExt (from `../`)
+
+EXTERNAL SOURCES:
+  UIViewExt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIViewExt: 9672d119ec370ccc59980b94a88e80da23724d54
+
+COCOAPODS: 0.39.0

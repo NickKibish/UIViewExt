@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'UIViewExt_Example' do
   pod 'UIViewExt', :path => '../'
-
-  target 'UIViewExt_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
